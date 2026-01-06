@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+
+# Imagens de output 
+output/*.txt
+
+# Configurações de sistema e IDEs
+.DS_Store
+.vscode/
+.idea/
