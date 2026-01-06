@@ -16,8 +16,12 @@ ScholarOCR is an open-source Python tool designed to extract text from images an
    ```bash
    git clone [https://github.com/evedmills/scholar-ocr.git](https://github.com/evedmills/scholar-ocr.git)
    cd scholar-ocr
-   
-## Prerequisites
+`
+2. Install the Python dependencies: 
+```bash p install -r REQUIREMENTS.TXT
+##
+``
+ ## Prerequisites
 
 Since this tool relies on Tesseract OCR, you must install the engine on your system before running the Python script.
 
